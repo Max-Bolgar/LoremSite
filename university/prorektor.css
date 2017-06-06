@@ -1,0 +1,34 @@
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "RobotoRegular", sans-serif;
+	font-size: 16px;
+}
+.prorektor img {
+	width: 150px;
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+}
+.prorektor h2 {
+	text-align: center;
+	font-size: 20px;
+	color: #1e003c;
+}
+.prorektor p {
+	text-align: center;
+	font-size: 16px;
+	color: #1e003c;
+}
+.prorektor p span {
+	text-decoration: underline;
+}
+.prorektor h1 {
+	text-align: center;
+	font-size: 26px;
+	color: #1e003c;
+	font-family: "OpenSans-Bold";
+	margin-bottom: 40px;
+}

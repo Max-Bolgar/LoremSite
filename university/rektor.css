@@ -1,0 +1,49 @@
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "RobotoRegular", sans-serif;
+	font-size: 16px;
+}
+.rektor img {
+	box-shadow: 0 0 30px rgba(0,0,0,0.5);
+	border-radius: 10px;
+	width: 100%;
+	margin-top: 40px;
+}
+.rektor p {
+	display: inline-block;
+	text-align: center;
+}
+.rektor h2 {
+	margin-top: 40px;
+	text-align: center;
+	color: rgb(38, 6, 58);
+}
+.rektor h3 {
+	text-align: center;
+	color: rgb(38, 6, 58);
+}
+.info p {
+	display: block;
+	text-align: center;
+	border: 1px solid rgb(38, 6, 58);
+	border-radius: 6px;
+	background-color: rgba(38, 6, 58, 0.5);
+	color: #fff;
+	font-family: "OpenSans-Regular";
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.info a {
+	color: #fff;
+	font-family: "OpenSans-Regular";
+}
+.info p span {
+	text-decoration: underline;
+	font-family: "OpenSans-Bold";
+}
+.info a:hover {
+	text-decoration: underline;
+}

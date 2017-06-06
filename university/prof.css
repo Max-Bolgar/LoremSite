@@ -1,0 +1,53 @@
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "RobotoRegular", sans-serif;
+	font-size: 16px;
+}
+.prof h2 {
+	text-align: center;
+	font-size: 22px;
+	color: #1e003c;
+}
+.prof h3 {
+	text-align: center;
+	font-size: 18px;
+	font-family: "OpenSans-Bold";
+	color: #1e003c;
+}
+.prof h1 {
+	text-align: center;
+	font-size: 26px;
+	color: #1e003c;
+	font-family: "OpenSans-Bold";
+	margin-bottom: 40px;
+	text-transform: uppercase;
+}
+.prof img {
+	display: block;
+	margin: auto;
+	width: 190px;
+	margin-top: 20px;
+}
+.prof p {
+	display: block;
+	text-align: center;
+	font-size: 16px;
+	color: #1e003c;
+	font-family: "OpenSans-Bold";
+}
+.prof p span {
+	text-transform: uppercase;
+	font-size: 20px;
+	text-decoration: underline;
+	display: inline-block;
+	margin-top: 30px;
+}
+.special img {
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+	width: 80%;
+}
